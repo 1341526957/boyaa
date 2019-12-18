@@ -1,0 +1,29 @@
+html{
+font-size:  10px
+font-family: 'Noto Serif SC', serif;
+background-color:#B6FBBC;
+}
+h1{
+font-size: 60px;
+text-align: center;
+margin: 0;
+padding:20px 0;
+color:#ED2A2A;
+text-shadow:8px 8px 1px black;
+}
+p,li{
+font-size: 16px;
+line-height: 2;
+letter-spacing: 1px;
+}
+body{
+width: 600px;
+margin:0 auto;
+background-color:#1EC22B;
+padding: 0 20px 20px 20px;
+border:5px solid black;
+}
+img{
+display:block;
+margin: 0 auto;
+}
